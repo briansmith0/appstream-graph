@@ -1,0 +1,19 @@
+"Node.js 16"	May 2022	Apr 2024	9.0
+"MySQL 8.0"	May 2022	Apr 2026	9.0
+"JBoss mod_cluster for Apache"	May 2022	May 2027	9.0
+"Tomcat mod_jk connector for Apache"	May 2022	May 2027	9.0
+"OpenJDK 17"	May 2022	Dec 2027	9.0
+"OpenJDK 11"	May 2022	Oct 2024	9.0
+"OpenJDK 1.8.0"	May 2022	May 2026	9.0
+"IDM"	May 2022	May 2027	9.0
+".NET 6"	May 2022	Nov 2024	9.0
+"Ansible Core"	May 2022	Nov 2023	9.0
+"Ruby 3.1"	Nov 2022	Mar 2025	9.1
+"PHP 8.1"	Nov 2022	May 2025	9.1
+"Node.js 18"	Nov 2022	Apr 2025	9.1
+"Maven 3.8"	Nov 2022	Nov 2025	9.1
+"gcc-toolset 12"	Nov 2022	Nov 2024	9.1
+".NET 7"	Nov 2022	May 2024	9.1
+"Python 3.11"	May 2023	May 2026	9.2
+"PostgreSQL 15"	May 2023	May 2028	9.2
+"NGINX 1.22"	May 2023	Nov 2025	9.2
